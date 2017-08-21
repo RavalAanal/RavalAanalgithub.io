@@ -12,6 +12,7 @@ body {
 			display: inline-block;
 			margin-left: 10%;
 			background: #5da4d9;
+			background-attachment:scroll;
 			color: white;
 		}
 
